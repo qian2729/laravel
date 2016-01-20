@@ -1,3 +1,10 @@
 Homestead.yaml
 Homestead.json
 .env
+.name
+.encodings.xml
+laravel.iml
+misc.xml
+modules.xml
+blade.xml
+vcs.xml
